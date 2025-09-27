@@ -3,4 +3,4 @@
 /lib
 /pyvenv.cfg
 /requirements.txt
-__pycache__/
+/__pycache__/
