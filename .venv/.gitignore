@@ -3,4 +3,5 @@
 /lib
 /pyvenv.cfg
 /requirements.txt
-/__pycache__/
+__pycache__/
+openAPI.json
